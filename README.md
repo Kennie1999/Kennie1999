@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kennie1999
-- 👀 I’m interested in ...Cybersecurity/Scurity Analysis,Malware and Threat Hunting e.t.c
-- 🌱 I’m currently learning ...Python for Automation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...213-214-6158,mustaphalateef1999@gmail.com
+👋 Hi, I’m @Kennie1999
+👀 I’m passionate about DevOps, Cloud Infrastructure, CI/CD Pipelines, and Automation.
+🌱 I’m currently learning Linux, Python, Terraform, Ansible, and Kubernetes to build a strong foundation in DevOps.
+💞️ I’m looking to collaborate on open-source DevOps projects, automation scripts, and cloud-native solutions.
+📫 Reach me at 213-214-6158 or mustaphalateef1999@gmail.com.
 
 <!---
 Kennie1999/Kennie1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
